@@ -1,6 +1,13 @@
-#flatiron {
-  background-image: url("../images/the-flatiron-building.png");
+.holder {
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.flatiron {
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 h1 {
@@ -34,9 +41,9 @@ a {
 }
 
 .footer {
-  display: inline;
   font-size: 11px;
   color: white;
+  text-align: left;
   background-color: dimgray;
 }
 
