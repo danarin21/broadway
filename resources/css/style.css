@@ -1,0 +1,13 @@
+.footer {
+  display: inline;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+
+}
+
+.link {
+  font-weight: bold;
+  color: white;
+}
